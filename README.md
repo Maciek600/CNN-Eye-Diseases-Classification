@@ -14,3 +14,8 @@ This project was developed as part of the Biologically Inspired Artificial Intel
 The goal is to automatically classify eye diseases (diabetic retinopathy, cataract, glaucoma, normal) from retinal images using a convolutional neural network (CNN) inspired by the human visual cortex. 
 The model, implemented in Python using PyTorch, incorporates an attention mechanism to focus on critical image regions. 
 The project includes data preprocessing, model training, performance analysis (accuracy, precision, recall, F1-score), and visualizations such as attention heatmaps and confusion matrix.
+
+##Dataset
+https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification/data
+
+
