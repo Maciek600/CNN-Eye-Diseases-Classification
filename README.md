@@ -135,7 +135,6 @@ The project includes data preprocessing, model training, performance analysis (a
      ```
    - A window will open where you can upload an eye image. The app will display a prediction and attention heatmap. Ensure `best_model.pth` exists (it should be created after training).
 
-## Dataset
-https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification/data
+
 
 
