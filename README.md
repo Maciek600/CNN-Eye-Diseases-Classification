@@ -6,6 +6,7 @@ Celem jest automatyczna klasyfikacja chorób oczu (retinopatia cukrzycowa, zaćm
 Model, zaimplementowany w Pythonie z użyciem PyTorch, wykorzystuje mechanizm uwagi do skupiania się na kluczowych obszarach obrazu. 
 Projekt obejmuje preprocessing danych, trening modelu, analizę wyników (dokładność, precyzja, czułość, F1-score) oraz wizualizacje, 
 takie jak mapy cieplne uwagi i macierz pomyłek.
+Projekt realizowany był wspólnie z https://github.com/wiczes
 
 ## Instrukcja instalacji i uruchomienia
 
@@ -75,6 +76,7 @@ This project was developed as part of the Biologically Inspired Artificial Intel
 The goal is to automatically classify eye diseases (diabetic retinopathy, cataract, glaucoma, normal) from retinal images using a convolutional neural network (CNN) inspired by the human visual cortex. 
 The model, implemented in Python using PyTorch, incorporates an attention mechanism to focus on critical image regions. 
 The project includes data preprocessing, model training, performance analysis (accuracy, precision, recall, F1-score), and visualizations such as attention heatmaps and confusion matrix.
+The project was carried out in collaboration with https://github.com/wiczes
 
 ## Installation and Setup Steps
 1. **Clone the repository**
